@@ -1,0 +1,16 @@
+{
+  "name": "MyTutsPlus app",
+  "version": "0.0.0",
+  "authors": [
+    "KostadinStefanov <kosstefanov@gmail.com>"
+  ],
+  "description": "tuts+",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
